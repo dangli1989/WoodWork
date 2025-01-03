@@ -1,17 +1,10 @@
 # WoodWork
 
-# Project Name
-A brief description of the project.
+This is Li's hobby woodwork project repo, it will be used to store woodwork ideas and designs
 
-## Features
-- Feature 1
-- Feature 2
+## Placeholder, section one
+- project 1
+- project 2
 
-## Installation
-Instructions for setting up the project.
-
-## Usage
-How to use the project.
-
-## License
-Specify the license (e.g., MIT, GPL).
+## Placeholder, copyright
+Li owns the copyright of all of the designs here in the repo.
